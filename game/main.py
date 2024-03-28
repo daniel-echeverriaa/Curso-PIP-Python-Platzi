@@ -1,0 +1,1 @@
+print('Gano jugador')
